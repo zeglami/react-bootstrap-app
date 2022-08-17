@@ -1,3 +1,25 @@
+# ----------------------------------------------------------------
+*useful plugins
+Prettier - Code formatter
+ES7+ React/Redux/React-Native snippets
+Git History
+
+
+*Grid System
+https://react-bootstrap.netlify.app/layout/grid/#rb-docs-content
+
+
+
+
+
+
+
+
+
+
+
+# ----------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
