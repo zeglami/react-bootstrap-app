@@ -1,15 +1,19 @@
+
 # ----------------------------------------------------------------
 *useful plugins
 Prettier - Code formatter
 ES7+ React/Redux/React-Native snippets
 Git History
-
+# ----------------------------------------------------------------
 
 *Grid System
 https://react-bootstrap.netlify.app/layout/grid/#rb-docs-content
 
 
-
+# ----------------------------------------------------------------
+emmet is enabled by default in in html files
+for javascript:
+go to settings >serach for emmet>add javascript in inclued language 
 
 
 
